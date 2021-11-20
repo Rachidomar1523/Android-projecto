@@ -122,6 +122,23 @@ picture img{
     display: block;
     margin: auto;
 }
+
+.dinheiro{
+    background-color: #2fa866;
+    margin:0px -10px 0px -10px;
+    padding: 1px 11px 0px 9px;
+    position: relative;
+    padding-bottom: 42%;
+}
+
+main div.dinheiro video{
+    position: absolute;
+    top: 2%;
+    left: 16%;
+    height: 97%;
+    width: 71%;
+}
+
 aside{
     background-color: var(--cor2);
     border-radius: 5px 5px 2px 2px;
