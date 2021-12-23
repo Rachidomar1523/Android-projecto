@@ -68,15 +68,19 @@ nav a{
     text-decoration: none;
     color: var(--cor0);
     padding: 5px 10px 5px 10px;
-    transition-duration: 1.1s;
+    transition-duration: 0.7s;
     margin-left: 5px;
 }
 
 nav a:hover{
-    background-color: var(--cor3);
+    background-color:#2fa86580;
     border-radius: 1px;
     font-size: 1.1em;
+}
 
+nav a:active{
+    
+    color: #2fa865b7;
 }
 
 body{
@@ -92,6 +96,7 @@ main{
     border-radius: 0px 0px 4px 4px;
     box-shadow: -1px 1px 20px rgba(0, 0, 0, 0.568);
 }
+
 
 main p{
     text-align: justify;
