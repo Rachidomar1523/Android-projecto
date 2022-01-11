@@ -79,8 +79,10 @@ nav a:hover{
 }
 
 nav a:active{
-    
+    font-size: 1em;
+    padding: 4px 8px 4px 8px;
     color: #2fa865b7;
+    transition-duration: 0.7s;
 }
 
 body{
